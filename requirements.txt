@@ -1,0 +1,20 @@
+# Bibliotecas básicas
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+xgboost>=1.4.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Ferramentas de desenvolvimento
+pylint>=2.8.0
+black>=21.5b0
+
+# Gerenciamento de dados
+openpyxl>=3.0.7

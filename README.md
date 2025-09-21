@@ -36,8 +36,8 @@ Este repositório é uma trilha prática de aprendizado em regressão com dados 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/house-price-models.git
-   cd house-price-models
+   git clone https://github.com/alineAssuncao/kaggle-regression-lab.git
+   cd kaggle-regression-lab
    ```
 
 2. Instale os pacotes:
